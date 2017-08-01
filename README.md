@@ -1,0 +1,3 @@
+# Git Öğreniyorum
+
+Git nedir ? Git nasıl kullanılır ? Bunları öğreniyorum...
